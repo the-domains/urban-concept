@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: El entrenador del Leicester City ha respondido en rueda de prensa a las informaciones que apuntan a que la estrella del equipo podría fichar por el FC Barcelona la próxima temporada
-datePublished: '2016-03-10T19:11:46.078Z'
-dateModified: '2016-03-10T19:11:33.766Z'
+datePublished: '2016-03-10T19:12:25.396Z'
+dateModified: '2016-03-10T19:11:51.663Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-10-el-entrenador-del-leicester-city-ha-respondido-en-rueda-de-p.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-el-entrenador-del-leicester-city-ha-respondido-en-rueda-de-p.md
-published: true
 url: el-entrenador-del-leicester-city-ha-respondido-en-rueda-de-p/index.html
 _type: Article
 
