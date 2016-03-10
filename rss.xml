@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[URBAN CONCEPT]]></title>
+        <description><![CDATA[URBAN CONCEPT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 18:42:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Urban Bistro-Bar]]></title>
+            <description><![CDATA[<article><h1>Urban Bistro-Bar</h1><p>Urban is a bistro-bar located next to the Boulevard of San Pedro. It’s a perfect place to meet your friends, watch a football match or fancy a game of pool in a great atmosphere. From 12h to midnight we offer international cuisine, from salads to burgers. Our soft drinks and deliciously brewed coffees give way at night to our wide variety of beers, wines and exceptional cocktails. A unique and sophisticated blend of design, lighting and lounge music will make your visit at the Urban Bistro-Bar a memorable experience. We hope to see you soon!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a903ee7-e344-4d1b-abd9-9d02878c035d.jpg"></article>]]></description>
+            <link>undefinedurban-bistro-bar/index.html</link>
+            <guid isPermaLink="false">4ef63ff4-440c-41f9-8450-c79524b0c4c3</guid>
+            <pubDate>Thu, 10 Mar 2016 18:40:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
